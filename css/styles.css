@@ -7,7 +7,7 @@
 
 body {
 	margin: 0;
-	font-family: Courier, serif;
+	font-family: Trocchi, serif;
 	text-align: center;
 	background-color: #0d1335;
 	color: #ffffff;
@@ -384,7 +384,7 @@ nav a:focus {
 @media (min-width: 60rem) {
 	.home-hero {
 		height: 70vh;
-		padding-top: 10vh;
+		padding-top: 5vh;
 	}
 
 }
@@ -549,6 +549,7 @@ nav a:focus {
 
 .threecol-description p {
 	margin: 1em;
+	color: #ffffff;
 }
 
 @media (min-width: 37rem) {
